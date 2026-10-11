@@ -4,6 +4,7 @@
 产品全称：`Open-source Maintenance Workbench`  
 本地项目目录：`osmw`  
 GitHub 仓库：<https://github.com/Dingh0208/omsw>  
+命名说明：用户原始输入为 `pen-source-maintenance-workbench`，本 PRD 按语义和英文命名规范规范化为 `Open-source Maintenance Workbench`；远端仓库 slug `omsw` 保持不变。  
 版本 0.1 · 2026 年 10 月 10 日 · 状态：讨论稿
 
 本文供产品设计、工程实现及潜在试点维护者讨论。它定义第一阶段要验证的用户问题、产品流程和验收方式。名称为暂定名，功能优先级与自动化权限需通过试点确认。
